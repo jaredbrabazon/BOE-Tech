@@ -1,0 +1,388 @@
+med_type,d_collected,parameter_name,results,unit,stream,year,month,season
+surface water,2024-03-18,Nitrate/Nitrite as Nitrogen,0.063,mg/L,Mill Branch,2024,Mar,spring
+surface water,2023-03-14,Nitrate/Nitrite as Nitrogen,0.0923,mg/L,Mill Branch,2023,Mar,spring
+surface water,2019-05-21,Nitrate/Nitrite as Nitrogen,0.12,mg/L,Mill Branch,2019,May,spring
+surface water,2024-06-10,Nitrate/Nitrite as Nitrogen,0.0561,mg/L,Mill Branch,2024,Jun,summer
+surface water,2004-03-30,Nitrate/Nitrite as Nitrogen,0.15,mg/L,Mill Branch,2004,Mar,spring
+surface water,2022-11-30,Nitrate/Nitrite as Nitrogen,0.0241,mg/L,Mill Branch,2022,Nov,fall
+surface water,2023-12-13,Nitrate/Nitrite as Nitrogen,0.118,mg/L,Mill Branch,2023,Dec,winter
+surface water,2014-05-01,Nitrate/Nitrite as Nitrogen,0.098,mg/L,Mill Branch,2014,May,spring
+surface water,2023-09-27,Nitrate/Nitrite as Nitrogen,0.0845,mg/L,Mill Branch,2023,Sep,fall
+surface water,2022-09-20,Nitrate/Nitrite as Nitrogen,0.0241,mg/L,Mill Branch,2022,Sep,fall
+surface water,2015-05-12,Nitrate/Nitrite as Nitrogen,0.086,mg/L,Mill Branch,2015,May,spring
+surface water,2018-04-19,Nitrate/Nitrite as Nitrogen,0.0787,mg/L,Mill Branch,2018,Apr,spring
+surface water,2004-10-28,Nitrate/Nitrite as Nitrogen,0.14,mg/L,Mill Branch,2004,Oct,fall
+surface water,2017-05-17,Nitrate/Nitrite as Nitrogen,0.085,mg/L,Mill Branch,2017,May,spring
+surface water,2023-05-16,Nitrate/Nitrite as Nitrogen,0.05,mg/L,Mill Branch,2023,May,spring
+surface water,2023-06-29,Nitrate/Nitrite as Nitrogen,22.8,mg/L,Bear Creek,2023,Jun,summer
+surface water,2023-03-07,Nitrate/Nitrite as Nitrogen,23.4,mg/L,Bear Creek,2023,Mar,spring
+surface water,2022-11-30,Nitrate/Nitrite as Nitrogen,20.1,mg/L,Bear Creek,2022,Nov,fall
+surface water,2022-09-20,Nitrate/Nitrite as Nitrogen,27.4,mg/L,Bear Creek,2022,Sep,fall
+surface water,2021-05-18,Nitrate/Nitrite as Nitrogen,28.6,mg/L,Bear Creek,2021,May,spring
+surface water,2021-02-24,Nitrate/Nitrite as Nitrogen,23.5,mg/L,Bear Creek,2021,Feb,winter
+surface water,2020-11-18,Nitrate/Nitrite as Nitrogen,26.6,mg/L,Bear Creek,2020,Nov,fall
+surface water,2020-11-18,Nitrate/Nitrite as Nitrogen,26.5,mg/L,Bear Creek,2020,Nov,fall
+surface water,2020-09-15,Nitrate/Nitrite as Nitrogen,37.2,mg/L,Bear Creek,2020,Sep,fall
+surface water,2019-05-08,Nitrate/Nitrite as Nitrogen,27.1,mg/L,Bear Creek,2019,May,spring
+surface water,2017-05-16,Nitrate/Nitrite as Nitrogen,29,mg/L,Bear Creek,2017,May,spring
+surface water,2017-05-16,Nitrate/Nitrite as Nitrogen,28,mg/L,Bear Creek,2017,May,spring
+surface water,2014-05-21,Nitrate/Nitrite as Nitrogen,27,mg/L,Bear Creek,2014,May,spring
+surface water,2004-10-28,Nitrate/Nitrite as Nitrogen,29.8,mg/L,Bear Creek,2004,Oct,fall
+surface water,2015-05-12,Conductivity,231,uS/cm,Mill Branch,2015,May,spring
+surface water,2013-02-15,Conductivity,786,uS/cm,Bear Creek,2013,Feb,winter
+surface water,2011-03-17,Conductivity,174,uS/cm,Mill Branch,2011,Mar,spring
+surface water,2022-03-22,Conductivity,189.7,uS/cm,Mill Branch,2022,Mar,spring
+surface water,2010-01-28,Conductivity,527,uS/cm,Bear Creek,2010,Jan,winter
+surface water,2018-04-12,Conductivity,759,uS/cm,Bear Creek,2018,Apr,spring
+surface water,2006-05-09,Conductivity,253,uS/cm,Mill Branch,2006,May,spring
+surface water,2013-04-12,Conductivity,87,uS/cm,Mill Branch,2013,Apr,spring
+surface water,2011-02-18,Conductivity,258,uS/cm,Mill Branch,2011,Feb,winter
+surface water,2016-02-02,Conductivity,800.1,uS/cm,Bear Creek,2016,Feb,winter
+surface water,2017-03-06,Conductivity,787,uS/cm,Bear Creek,2017,Mar,spring
+surface water,2015-12-09,Conductivity,245.7,uS/cm,Mill Branch,2015,Dec,winter
+surface water,2007-04-27,Conductivity,984,uS/cm,Bear Creek,2007,Apr,spring
+surface water,2005-01-31,Conductivity,214,uS/cm,Mill Branch,2005,Jan,winter
+surface water,2006-05-19,Conductivity,297,uS/cm,Mill Branch,2006,May,spring
+surface water,2019-04-16,Conductivity,166.1,uS/cm,Mill Branch,2019,Apr,spring
+surface water,2014-01-21,Conductivity,192.3,uS/cm,Mill Branch,2014,Jan,winter
+surface water,2024-12-04,Conductivity,308,uS/cm,Mill Branch,2024,Dec,winter
+surface water,2012-12-07,Conductivity,304,uS/cm,Mill Branch,2012,Dec,winter
+surface water,2005-02-18,Conductivity,878,uS/cm,Bear Creek,2005,Feb,winter
+surface water,2020-03-11,Conductivity,724,uS/cm,Bear Creek,2020,Mar,spring
+surface water,2025-04-07,Conductivity,540,uS/cm,Bear Creek,2025,Apr,spring
+surface water,2015-02-09,Conductivity,172.1,uS/cm,Mill Branch,2015,Feb,winter
+surface water,2025-05-29,Conductivity,153.8,uS/cm,Mill Branch,2025,May,spring
+surface water,2012-05-04,Conductivity,237,uS/cm,Mill Branch,2012,May,spring
+surface water,2022-02-15,Conductivity,846,uS/cm,Bear Creek,2022,Feb,winter
+surface water,2006-12-15,Conductivity,222,uS/cm,Mill Branch,2006,Dec,winter
+surface water,2014-12-30,Conductivity,502,uS/cm,Bear Creek,2014,Dec,winter
+surface water,2021-12-02,Conductivity,288.8,uS/cm,Mill Branch,2021,Dec,winter
+surface water,2021-03-16,Conductivity,798,uS/cm,Bear Creek,2021,Mar,spring
+surface water,2009-12-29,Conductivity,792,uS/cm,Bear Creek,2009,Dec,winter
+surface water,2014-04-16,Conductivity,812,uS/cm,Bear Creek,2014,Apr,spring
+surface water,2012-02-13,Conductivity,197,uS/cm,Mill Branch,2012,Feb,winter
+surface water,2014-02-18,Conductivity,758,uS/cm,Bear Creek,2014,Feb,winter
+surface water,2016-03-17,Conductivity,171.7,uS/cm,Mill Branch,2016,Mar,spring
+surface water,2016-12-20,Conductivity,232.4,uS/cm,Mill Branch,2016,Dec,winter
+surface water,2019-05-14,Conductivity,658,uS/cm,Bear Creek,2019,May,spring
+surface water,2021-05-18,Conductivity,857,uS/cm,Bear Creek,2021,May,spring
+surface water,2015-01-20,Conductivity,902,uS/cm,Bear Creek,2015,Jan,winter
+surface water,2017-12-13,Conductivity,249.6,uS/cm,Mill Branch,2017,Dec,winter
+surface water,2022-05-24,Conductivity,249.4,uS/cm,Mill Branch,2022,May,spring
+surface water,2017-02-02,Conductivity,233,uS/cm,Mill Branch,2017,Feb,winter
+surface water,2014-01-21,Conductivity,869,uS/cm,Bear Creek,2014,Jan,winter
+surface water,2023-12-18,Conductivity,796,uS/cm,Bear Creek,2023,Dec,winter
+surface water,2006-05-19,Conductivity,1440,uS/cm,Bear Creek,2006,May,spring
+surface water,2008-03-06,Conductivity,167,uS/cm,Mill Branch,2008,Mar,spring
+surface water,2005-03-11,Conductivity,200,uS/cm,Mill Branch,2005,Mar,spring
+surface water,2026-04-20,Conductivity,273.5,uS/cm,Mill Branch,2026,Apr,spring
+surface water,2026-02-23,Conductivity,956,uS/cm,Bear Creek,2026,Feb,winter
+surface water,2023-04-27,Conductivity,888,uS/cm,Bear Creek,2023,Apr,spring
+surface water,2015-12-09,Conductivity,933,uS/cm,Bear Creek,2015,Dec,winter
+surface water,2023-05-23,Conductivity,254.1,uS/cm,Mill Branch,2023,May,spring
+surface water,2013-05-03,Conductivity,749,uS/cm,Bear Creek,2013,May,spring
+surface water,2021-01-28,Conductivity,168.6,uS/cm,Mill Branch,2021,Jan,winter
+surface water,2015-03-26,Conductivity,990,uS/cm,Bear Creek,2015,Mar,spring
+surface water,2014-05-21,Conductivity,790,uS/cm,Bear Creek,2014,May,spring
+surface water,2022-04-27,Conductivity,765,uS/cm,Bear Creek,2022,Apr,spring
+surface water,2018-12-17,Conductivity,784,uS/cm,Bear Creek,2018,Dec,winter
+surface water,2014-02-18,Conductivity,164,uS/cm,Mill Branch,2014,Feb,winter
+surface water,2010-04-21,Conductivity,1089,uS/cm,Bear Creek,2010,Apr,spring
+surface water,2010-05-24,Conductivity,260,uS/cm,Mill Branch,2010,May,spring
+surface water,2006-01-27,Conductivity,268,uS/cm,Mill Branch,2006,Jan,winter
+surface water,2007-02-26,Conductivity,231,uS/cm,Mill Branch,2007,Feb,winter
+surface water,2014-04-16,Conductivity,184,uS/cm,Mill Branch,2014,Apr,spring
+surface water,2010-01-28,Conductivity,153,uS/cm,Mill Branch,2010,Jan,winter
+surface water,2024-03-18,Conductivity,160.1,uS/cm,Mill Branch,2024,Mar,spring
+surface water,2019-01-09,Conductivity,169.4,uS/cm,Mill Branch,2019,Jan,winter
+surface water,2019-12-05,Conductivity,769,uS/cm,Bear Creek,2019,Dec,winter
+surface water,2019-02-15,Conductivity,622,uS/cm,Bear Creek,2019,Feb,winter
+surface water,2023-05-16,Conductivity,168,uS/cm,Mill Branch,2023,May,spring
+surface water,2018-04-12,Conductivity,171.8,uS/cm,Mill Branch,2018,Apr,spring
+surface water,2006-04-17,Conductivity,332,uS/cm,Mill Branch,2006,Apr,spring
+surface water,2022-12-01,Conductivity,257.4,uS/cm,Mill Branch,2022,Dec,winter
+surface water,2023-03-07,Conductivity,159.1,uS/cm,Mill Branch,2023,Mar,spring
+surface water,2008-12-18,Conductivity,724,uS/cm,Bear Creek,2008,Dec,winter
+surface water,2018-01-09,Conductivity,241,uS/cm,Mill Branch,2018,Jan,winter
+surface water,2026-04-20,Conductivity,1080,uS/cm,Bear Creek,2026,Apr,spring
+surface water,2012-01-20,Conductivity,715,uS/cm,Bear Creek,2012,Jan,winter
+surface water,2005-02-11,Conductivity,948,uS/cm,Bear Creek,2005,Feb,winter
+surface water,2005-01-06,Conductivity,216,uS/cm,Mill Branch,2005,Jan,winter
+surface water,2025-04-07,Conductivity,112.8,uS/cm,Mill Branch,2025,Apr,spring
+surface water,2012-03-07,Conductivity,172,uS/cm,Mill Branch,2012,Mar,spring
+surface water,2018-12-12,Conductivity,658.9,uS/cm,Bear Creek,2018,Dec,winter
+surface water,2008-02-27,Conductivity,258,uS/cm,Mill Branch,2008,Feb,winter
+surface water,2007-02-26,Conductivity,942,uS/cm,Bear Creek,2007,Feb,winter
+surface water,2024-04-22,Conductivity,861,uS/cm,Bear Creek,2024,Apr,spring
+surface water,2005-05-27,Conductivity,220,uS/cm,Mill Branch,2005,May,spring
+surface water,2006-04-17,Conductivity,1225,uS/cm,Bear Creek,2006,Apr,spring
+surface water,2023-02-24,Conductivity,190.2,uS/cm,Mill Branch,2023,Feb,winter
+surface water,2018-04-19,Conductivity,160,uS/cm,Mill Branch,2018,Apr,spring
+surface water,2017-04-11,Conductivity,186.7,uS/cm,Mill Branch,2017,Apr,spring
+surface water,2020-03-11,Conductivity,177.4,uS/cm,Mill Branch,2020,Mar,spring
+surface water,2006-03-31,Conductivity,1190,uS/cm,Bear Creek,2006,Mar,spring
+surface water,2011-04-08,Conductivity,719,uS/cm,Bear Creek,2011,Apr,spring
+surface water,2025-03-05,Conductivity,211.9,uS/cm,Mill Branch,2025,Mar,spring
+surface water,2008-02-27,Conductivity,1210,uS/cm,Bear Creek,2008,Feb,winter
+surface water,2023-12-13,Conductivity,297.3,uS/cm,Mill Branch,2023,Dec,winter
+surface water,2014-05-01,Conductivity,175.5,uS/cm,Mill Branch,2014,May,spring
+surface water,2021-04-29,Conductivity,249.7,uS/cm,Mill Branch,2021,Apr,spring
+surface water,2005-02-11,Conductivity,202,uS/cm,Mill Branch,2005,Feb,winter
+surface water,2005-01-24,Conductivity,210,uS/cm,Mill Branch,2005,Jan,winter
+surface water,2016-05-16,Conductivity,1043,uS/cm,Bear Creek,2016,May,spring
+surface water,2010-02-25,Conductivity,1085,uS/cm,Bear Creek,2010,Feb,winter
+surface water,2021-02-24,Conductivity,564,uS/cm,Bear Creek,2021,Feb,winter
+surface water,2006-01-05,Conductivity,1180,uS/cm,Bear Creek,2006,Jan,winter
+surface water,2005-12-08,Conductivity,1590,uS/cm,Bear Creek,2005,Dec,winter
+surface water,2017-12-13,Conductivity,1022,uS/cm,Bear Creek,2017,Dec,winter
+surface water,2020-01-16,Conductivity,462,uS/cm,Bear Creek,2020,Jan,winter
+surface water,2025-01-06,Conductivity,180.5,uS/cm,Mill Branch,2025,Jan,winter
+surface water,2005-03-11,Conductivity,982,uS/cm,Bear Creek,2005,Mar,spring
+surface water,2012-02-13,Conductivity,855,uS/cm,Bear Creek,2012,Feb,winter
+surface water,2025-01-06,Conductivity,293.2,uS/cm,Bear Creek,2025,Jan,winter
+surface water,2017-02-02,Conductivity,1002,uS/cm,Bear Creek,2017,Feb,winter
+surface water,2026-01-06,Conductivity,1015,uS/cm,Bear Creek,2026,Jan,winter
+surface water,2013-02-15,Conductivity,189,uS/cm,Mill Branch,2013,Feb,winter
+surface water,2008-02-26,Conductivity,1070,uS/cm,Bear Creek,2008,Feb,winter
+surface water,2018-12-17,Conductivity,207.8,uS/cm,Mill Branch,2018,Dec,winter
+surface water,2016-04-29,Conductivity,241.4,uS/cm,Mill Branch,2016,Apr,spring
+surface water,2009-02-25,Conductivity,1190,uS/cm,Bear Creek,2009,Feb,winter
+surface water,2005-03-18,Conductivity,91,uS/cm,Mill Branch,2005,Mar,spring
+surface water,2012-04-10,Conductivity,658,uS/cm,Bear Creek,2012,Apr,spring
+surface water,2010-12-09,Conductivity,1026,uS/cm,Bear Creek,2010,Dec,winter
+surface water,2005-01-06,Conductivity,652,uS/cm,Bear Creek,2005,Jan,winter
+surface water,2024-05-16,Conductivity,849,uS/cm,Bear Creek,2024,May,spring
+surface water,2011-05-02,Conductivity,875,uS/cm,Bear Creek,2011,May,spring
+surface water,2007-03-09,Conductivity,198,uS/cm,Mill Branch,2007,Mar,spring
+surface water,2005-01-28,Conductivity,234,uS/cm,Mill Branch,2005,Jan,winter
+surface water,2006-01-05,Conductivity,285,uS/cm,Mill Branch,2006,Jan,winter
+surface water,2005-03-28,Conductivity,48,uS/cm,Mill Branch,2005,Mar,spring
+surface water,2013-05-03,Conductivity,189,uS/cm,Mill Branch,2013,May,spring
+surface water,2005-02-09,Conductivity,192,uS/cm,Mill Branch,2005,Feb,winter
+surface water,2022-03-22,Conductivity,805,uS/cm,Bear Creek,2022,Mar,spring
+surface water,2018-12-12,Conductivity,151.8,uS/cm,Mill Branch,2018,Dec,winter
+surface water,2005-02-25,Conductivity,159,uS/cm,Mill Branch,2005,Feb,winter
+surface water,2015-05-13,Conductivity,1313,uS/cm,Bear Creek,2015,May,spring
+surface water,2023-03-14,Conductivity,152.4,uS/cm,Mill Branch,2023,Mar,spring
+surface water,2006-12-15,Conductivity,954,uS/cm,Bear Creek,2006,Dec,winter
+surface water,2008-03-13,Conductivity,980,uS/cm,Bear Creek,2008,Mar,spring
+surface water,2019-05-08,Conductivity,865,uS/cm,Bear Creek,2019,May,spring
+surface water,2011-02-18,Conductivity,1150,uS/cm,Bear Creek,2011,Feb,winter
+surface water,2022-05-24,Conductivity,808,uS/cm,Bear Creek,2022,May,spring
+surface water,2013-03-12,Conductivity,131,uS/cm,Mill Branch,2013,Mar,spring
+surface water,2016-05-16,Conductivity,244.8,uS/cm,Mill Branch,2016,May,spring
+surface water,2007-05-09,Conductivity,1161,uS/cm,Bear Creek,2007,May,spring
+surface water,2021-12-02,Conductivity,1044,uS/cm,Bear Creek,2021,Dec,winter
+surface water,2024-03-18,Conductivity,716,uS/cm,Bear Creek,2024,Mar,spring
+surface water,2015-03-26,Conductivity,193,uS/cm,Mill Branch,2015,Mar,spring
+surface water,2021-01-28,Conductivity,715.2,uS/cm,Bear Creek,2021,Jan,winter
+surface water,2014-12-30,Conductivity,124,uS/cm,Mill Branch,2014,Dec,winter
+surface water,2011-04-08,Conductivity,149,uS/cm,Mill Branch,2011,Apr,spring
+surface water,2024-02-21,Conductivity,910,uS/cm,Bear Creek,2024,Feb,winter
+surface water,2015-01-20,Conductivity,171,uS/cm,Mill Branch,2015,Jan,winter
+surface water,2005-12-22,Conductivity,288,uS/cm,Mill Branch,2005,Dec,winter
+surface water,2010-02-25,Conductivity,172,uS/cm,Mill Branch,2010,Feb,winter
+surface water,2021-02-24,Conductivity,154.2,uS/cm,Mill Branch,2021,Feb,winter
+surface water,2005-01-21,Conductivity,185,uS/cm,Mill Branch,2005,Jan,winter
+surface water,2014-03-06,Conductivity,708,uS/cm,Bear Creek,2014,Mar,spring
+surface water,2006-02-27,Conductivity,308,uS/cm,Mill Branch,2006,Feb,winter
+surface water,2017-05-23,Conductivity,1143,uS/cm,Bear Creek,2017,May,spring
+surface water,2013-12-19,Conductivity,204.5,uS/cm,Mill Branch,2013,Dec,winter
+surface water,2009-02-25,Conductivity,228,uS/cm,Mill Branch,2009,Feb,winter
+surface water,2015-02-09,Conductivity,170,uS/cm,Mill Branch,2015,Feb,winter
+surface water,2005-03-04,Conductivity,900,uS/cm,Bear Creek,2005,Mar,spring
+surface water,2005-02-09,Conductivity,934,uS/cm,Bear Creek,2005,Feb,winter
+surface water,2012-03-07,Conductivity,743,uS/cm,Bear Creek,2012,Mar,spring
+surface water,2005-12-08,Conductivity,145,uS/cm,Mill Branch,2005,Dec,winter
+surface water,2022-02-15,Conductivity,224.7,uS/cm,Mill Branch,2022,Feb,winter
+surface water,2022-12-01,Conductivity,639,uS/cm,Bear Creek,2022,Dec,winter
+surface water,2005-12-27,Conductivity,307,uS/cm,Mill Branch,2005,Dec,winter
+surface water,2005-12-22,Conductivity,1460,uS/cm,Bear Creek,2005,Dec,winter
+surface water,2024-01-29,Conductivity,139.8,uS/cm,Mill Branch,2024,Jan,winter
+surface water,2018-05-29,Conductivity,927,uS/cm,Bear Creek,2018,May,spring
+surface water,2008-03-13,Conductivity,193,uS/cm,Mill Branch,2008,Mar,spring
+surface water,2015-04-20,Conductivity,409,uS/cm,Bear Creek,2015,Apr,spring
+surface water,2015-04-20,Conductivity,87,uS/cm,Mill Branch,2015,Apr,spring
+surface water,2013-12-19,Conductivity,902,uS/cm,Bear Creek,2013,Dec,winter
+surface water,2005-01-28,Conductivity,1070,uS/cm,Bear Creek,2005,Jan,winter
+surface water,2024-02-21,Conductivity,210.6,uS/cm,Mill Branch,2024,Feb,winter
+surface water,2007-03-09,Conductivity,1071,uS/cm,Bear Creek,2007,Mar,spring
+surface water,2023-03-07,Conductivity,285.4,uS/cm,Bear Creek,2023,Mar,spring
+surface water,2005-01-21,Conductivity,921,uS/cm,Bear Creek,2005,Jan,winter
+surface water,2024-05-16,Conductivity,223,uS/cm,Mill Branch,2024,May,spring
+surface water,2013-03-12,Conductivity,377,uS/cm,Bear Creek,2013,Mar,spring
+surface water,2025-03-05,Conductivity,981,uS/cm,Bear Creek,2025,Mar,spring
+surface water,2008-01-29,Conductivity,1130,uS/cm,Bear Creek,2008,Jan,winter
+surface water,2009-04-28,Conductivity,175,uS/cm,Mill Branch,2009,Apr,spring
+surface water,2011-05-02,Conductivity,188,uS/cm,Mill Branch,2011,May,spring
+surface water,2017-03-06,Conductivity,185,uS/cm,Mill Branch,2017,Mar,spring
+surface water,2008-05-29,Conductivity,636,uS/cm,Bear Creek,2008,May,spring
+surface water,2013-01-09,Conductivity,945,uS/cm,Bear Creek,2013,Jan,winter
+surface water,2007-04-27,Conductivity,217,uS/cm,Mill Branch,2007,Apr,spring
+surface water,2014-05-21,Conductivity,252,uS/cm,Mill Branch,2014,May,spring
+surface water,2016-12-20,Conductivity,1013,uS/cm,Bear Creek,2016,Dec,winter
+surface water,2007-01-18,Conductivity,222,uS/cm,Mill Branch,2007,Jan,winter
+surface water,2025-02-03,Conductivity,1084,uS/cm,Bear Creek,2025,Feb,winter
+surface water,2012-01-20,Conductivity,166,uS/cm,Mill Branch,2012,Jan,winter
+surface water,2019-05-21,Conductivity,225.7,uS/cm,Mill Branch,2019,May,spring
+surface water,2005-01-31,Conductivity,637,uS/cm,Bear Creek,2005,Jan,winter
+surface water,2013-01-09,Conductivity,232,uS/cm,Mill Branch,2013,Jan,winter
+surface water,2018-02-27,Conductivity,401.1,uS/cm,Bear Creek,2018,Feb,winter
+surface water,2015-02-09,Conductivity,852,uS/cm,Bear Creek,2015,Feb,winter
+surface water,2009-04-28,Conductivity,860,uS/cm,Bear Creek,2009,Apr,spring
+surface water,2024-12-04,Conductivity,1068,uS/cm,Bear Creek,2024,Dec,winter
+surface water,2016-03-17,Conductivity,885,uS/cm,Bear Creek,2016,Mar,spring
+surface water,2008-02-26,Conductivity,254,uS/cm,Mill Branch,2008,Feb,winter
+surface water,2019-03-19,Conductivity,170,uS/cm,Mill Branch,2019,Mar,spring
+surface water,2025-05-12,Conductivity,886,uS/cm,Bear Creek,2025,May,spring
+surface water,2006-03-31,Conductivity,312,uS/cm,Mill Branch,2006,Mar,spring
+surface water,2021-03-16,Conductivity,225.1,uS/cm,Mill Branch,2021,Mar,spring
+surface water,2017-01-19,Conductivity,903,uS/cm,Bear Creek,2017,Jan,winter
+surface water,2016-04-29,Conductivity,925,uS/cm,Bear Creek,2016,Apr,spring
+surface water,2012-05-04,Conductivity,947,uS/cm,Bear Creek,2012,May,spring
+surface water,2011-01-13,Conductivity,234,uS/cm,Mill Branch,2011,Jan,winter
+surface water,2020-02-19,Conductivity,130.2,uS/cm,Mill Branch,2020,Feb,winter
+surface water,2021-05-18,Conductivity,230.3,uS/cm,Mill Branch,2021,May,spring
+surface water,2023-02-24,Conductivity,708,uS/cm,Bear Creek,2023,Feb,winter
+surface water,2018-01-09,Conductivity,846,uS/cm,Bear Creek,2018,Jan,winter
+surface water,2019-04-16,Conductivity,775,uS/cm,Bear Creek,2019,Apr,spring
+surface water,2005-02-18,Conductivity,179,uS/cm,Mill Branch,2005,Feb,winter
+surface water,2019-01-09,Conductivity,686.6,uS/cm,Bear Creek,2019,Jan,winter
+surface water,2007-01-18,Conductivity,954,uS/cm,Bear Creek,2007,Jan,winter
+surface water,2009-12-29,Conductivity,167,uS/cm,Mill Branch,2009,Dec,winter
+surface water,2020-12-08,Conductivity,252.5,uS/cm,Mill Branch,2020,Dec,winter
+surface water,2018-03-12,Conductivity,188.9,uS/cm,Mill Branch,2018,Mar,spring
+surface water,2017-05-17,Conductivity,248,uS/cm,Mill Branch,2017,May,spring
+surface water,2005-01-12,Conductivity,357,uS/cm,Bear Creek,2005,Jan,winter
+surface water,2026-03-23,Conductivity,862,uS/cm,Bear Creek,2026,Mar,spring
+surface water,2017-01-19,Conductivity,210,uS/cm,Mill Branch,2017,Jan,winter
+surface water,2020-02-19,Conductivity,632,uS/cm,Bear Creek,2020,Feb,winter
+surface water,2011-03-17,Conductivity,871,uS/cm,Bear Creek,2011,Mar,spring
+surface water,2010-05-24,Conductivity,1262,uS/cm,Bear Creek,2010,May,spring
+surface water,2008-03-06,Conductivity,910,uS/cm,Bear Creek,2008,Mar,spring
+surface water,2019-05-14,Conductivity,149.9,uS/cm,Mill Branch,2019,May,spring
+surface water,2024-04-22,Conductivity,228.8,uS/cm,Mill Branch,2024,Apr,spring
+surface water,2008-01-29,Conductivity,85,uS/cm,Mill Branch,2008,Jan,winter
+surface water,2008-05-29,Conductivity,244,uS/cm,Mill Branch,2008,May,spring
+surface water,2023-04-27,Conductivity,237.8,uS/cm,Mill Branch,2023,Apr,spring
+surface water,2026-05-14,Conductivity,1183,uS/cm,Bear Creek,2026,May,spring
+surface water,2005-02-25,Conductivity,791,uS/cm,Bear Creek,2005,Feb,winter
+surface water,2006-01-27,Conductivity,1100,uS/cm,Bear Creek,2006,Jan,winter
+surface water,2019-03-19,Conductivity,790,uS/cm,Bear Creek,2019,Mar,spring
+surface water,2016-01-21,Conductivity,172.9,uS/cm,Mill Branch,2016,Jan,winter
+surface water,2018-02-27,Conductivity,109.6,uS/cm,Mill Branch,2018,Feb,winter
+surface water,2005-03-04,Conductivity,197,uS/cm,Mill Branch,2005,Mar,spring
+surface water,2005-03-18,Conductivity,456,uS/cm,Bear Creek,2005,Mar,spring
+surface water,2026-03-23,Conductivity,199.4,uS/cm,Mill Branch,2026,Mar,spring
+surface water,2014-03-06,Conductivity,143,uS/cm,Mill Branch,2014,Mar,spring
+surface water,2026-05-14,Conductivity,277.2,uS/cm,Mill Branch,2026,May,spring
+surface water,2023-01-24,Conductivity,191.6,uS/cm,Mill Branch,2023,Jan,winter
+surface water,2019-12-05,Conductivity,196.5,uS/cm,Mill Branch,2019,Dec,winter
+surface water,2019-02-15,Conductivity,132,uS/cm,Mill Branch,2019,Feb,winter
+surface water,2025-12-02,Conductivity,518,uS/cm,Bear Creek,2025,Dec,winter
+surface water,2023-12-18,Conductivity,288.7,uS/cm,Mill Branch,2023,Dec,winter
+surface water,2006-05-09,Conductivity,1130,uS/cm,Bear Creek,2006,May,spring
+surface water,2010-04-21,Conductivity,233,uS/cm,Mill Branch,2010,Apr,spring
+surface water,2022-04-27,Conductivity,210,uS/cm,Mill Branch,2022,Apr,spring
+surface water,2020-01-16,Conductivity,134,uS/cm,Mill Branch,2020,Jan,winter
+surface water,2010-12-09,Conductivity,257,uS/cm,Mill Branch,2010,Dec,winter
+surface water,2010-03-31,Conductivity,823,uS/cm,Bear Creek,2010,Mar,spring
+surface water,2005-02-04,Conductivity,178,uS/cm,Mill Branch,2005,Feb,winter
+surface water,2021-04-29,Conductivity,944,uS/cm,Bear Creek,2021,Apr,spring
+surface water,2025-02-03,Conductivity,168.3,uS/cm,Mill Branch,2025,Feb,winter
+surface water,2008-04-30,Conductivity,236,uS/cm,Mill Branch,2008,Apr,spring
+surface water,2022-01-11,Conductivity,138.5,uS/cm,Mill Branch,2022,Jan,winter
+surface water,2025-12-02,Conductivity,228.5,uS/cm,Mill Branch,2025,Dec,winter
+surface water,2017-05-23,Conductivity,264,uS/cm,Mill Branch,2017,May,spring
+surface water,2026-01-06,Conductivity,291.1,uS/cm,Mill Branch,2026,Jan,winter
+surface water,2005-12-27,Conductivity,1460,uS/cm,Bear Creek,2005,Dec,winter
+surface water,2026-02-23,Conductivity,167.2,uS/cm,Mill Branch,2026,Feb,winter
+surface water,2025-04-02,Conductivity,740,uS/cm,Bear Creek,2025,Apr,spring
+surface water,2007-05-09,Conductivity,221,uS/cm,Mill Branch,2007,May,spring
+surface water,2005-01-24,Conductivity,1030,uS/cm,Bear Creek,2005,Jan,winter
+surface water,2006-02-27,Conductivity,1070,uS/cm,Bear Creek,2006,Feb,winter
+surface water,2017-04-11,Conductivity,771,uS/cm,Bear Creek,2017,Apr,spring
+surface water,2005-01-12,Conductivity,68,uS/cm,Mill Branch,2005,Jan,winter
+surface water,2023-01-24,Conductivity,774,uS/cm,Bear Creek,2023,Jan,winter
+surface water,2018-03-12,Conductivity,731,uS/cm,Bear Creek,2018,Mar,spring
+surface water,2015-05-13,Conductivity,257,uS/cm,Mill Branch,2015,May,spring
+surface water,2022-01-11,Conductivity,643,uS/cm,Bear Creek,2022,Jan,winter
+surface water,2005-02-04,Conductivity,868,uS/cm,Bear Creek,2005,Feb,winter
+surface water,2005-05-27,Conductivity,1100,uS/cm,Bear Creek,2005,May,spring
+surface water,2005-03-28,Conductivity,440,uS/cm,Bear Creek,2005,Mar,spring
+surface water,2017-05-16,Conductivity,738,uS/cm,Bear Creek,2017,May,spring
+surface water,2020-12-08,Conductivity,892,uS/cm,Bear Creek,2020,Dec,winter
+surface water,2013-04-12,Conductivity,369,uS/cm,Bear Creek,2013,Apr,spring
+surface water,2010-03-31,Conductivity,151,uS/cm,Mill Branch,2010,Mar,spring
+surface water,2024-01-29,Conductivity,992,uS/cm,Bear Creek,2024,Jan,winter
+surface water,2008-04-30,Conductivity,1270,uS/cm,Bear Creek,2008,Apr,spring
+surface water,2011-01-13,Conductivity,1183,uS/cm,Bear Creek,2011,Jan,winter
+surface water,2008-12-18,Conductivity,159,uS/cm,Mill Branch,2008,Dec,winter
+surface water,2012-04-10,Conductivity,177,uS/cm,Mill Branch,2012,Apr,spring
+surface water,2016-01-21,Conductivity,898,uS/cm,Bear Creek,2016,Jan,winter
+surface water,2026-10-01,Conductivity,275.3,uS/cm,Creech Hollow,2026,Oct,fall
+surface water,2026-09-08,Conductivity,269.6,uS/cm,Creech Hollow,2026,Sep,fall
+surface water,2026-09-08,Nitrate/Nitrite as Nitrogen,0.21,mg/L,Creech Hollow,2026,Sep,fall
+surface water,2018-10-19,Conductivity,216.3,uS/cm,Creech Hollow,2018,Oct,fall
+surface water,2017-05-30,Conductivity,157.4,uS/cm,Creech Hollow,2017,May,spring
+surface water,2017-03-14,Conductivity,189.7,uS/cm,Creech Hollow,2017,Mar,spring
+surface water,2017-02-15,Conductivity,177,uS/cm,Creech Hollow,2017,Feb,winter
+surface water,2017-01-25,Conductivity,174.6,uS/cm,Creech Hollow,2017,Jan,winter
+surface water,2016-12-07,Conductivity,203.7,uS/cm,Creech Hollow,2016,Dec,winter
+surface water,2016-11-02,Conductivity,225.2,uS/cm,Creech Hollow,2016,Nov,fall
+surface water,2016-10-19,Conductivity,216,uS/cm,Creech Hollow,2016,Oct,fall
+surface water,2016-09-28,Conductivity,230.5,uS/cm,Creech Hollow,2016,Sep,fall
+surface water,2012-05-30,Nitrate/Nitrite as Nitrogen,0.1,mg/L,Creech Hollow,2012,May,spring
+surface water,2012-05-30,Nitrate/Nitrite as Nitrogen,0.13,mg/L,Creech Hollow,2012,May,spring
+surface water,2012-05-30,Conductivity,221,uS/cm,Creech Hollow,2012,May,spring
+surface water,2012-05-30,Conductivity,205,uS/cm,Creech Hollow,2012,May,spring
+surface water,2012-04-04,Nitrate/Nitrite as Nitrogen,0.099,mg/L,Creech Hollow,2012,Apr,spring
+surface water,2012-04-04,Nitrate/Nitrite as Nitrogen,0.11,mg/L,Creech Hollow,2012,Apr,spring
+surface water,2012-04-04,Conductivity,210,uS/cm,Creech Hollow,2012,Apr,spring
+surface water,2012-04-04,Conductivity,198,uS/cm,Creech Hollow,2012,Apr,spring
+surface water,2012-03-13,Nitrate/Nitrite as Nitrogen,0.017,mg/L,Creech Hollow,2012,Mar,spring
+surface water,2012-03-13,Nitrate/Nitrite as Nitrogen,0.017,mg/L,Creech Hollow,2012,Mar,spring
+surface water,2012-03-13,Conductivity,170,uS/cm,Creech Hollow,2012,Mar,spring
+surface water,2012-03-13,Conductivity,160,uS/cm,Creech Hollow,2012,Mar,spring
+surface water,2012-02-22,Nitrate/Nitrite as Nitrogen,0.065,mg/L,Creech Hollow,2012,Feb,winter
+surface water,2012-02-22,Nitrate/Nitrite as Nitrogen,0.083,mg/L,Creech Hollow,2012,Feb,winter
+surface water,2012-02-22,Conductivity,176.7,uS/cm,Creech Hollow,2012,Feb,winter
+surface water,2012-02-22,Conductivity,169.9,uS/cm,Creech Hollow,2012,Feb,winter
+surface water,2012-01-17,Nitrate/Nitrite as Nitrogen,0.2,mg/L,Creech Hollow,2012,Jan,winter
+surface water,2012-01-17,Conductivity,210,uS/cm,Creech Hollow,2012,Jan,winter
+surface water,2012-01-17,Conductivity,227,uS/cm,Creech Hollow,2012,Jan,winter
+surface water,2012-01-17,Nitrate/Nitrite as Nitrogen,0.25,mg/L,Creech Hollow,2012,Jan,winter
+surface water,2011-12-28,Conductivity,194,uS/cm,Creech Hollow,2011,Dec,winter
+surface water,2011-12-28,Conductivity,201,uS/cm,Creech Hollow,2011,Dec,winter
+surface water,2011-12-28,Nitrate/Nitrite as Nitrogen,0.14,mg/L,Creech Hollow,2011,Dec,winter
+surface water,2011-12-28,Nitrate/Nitrite as Nitrogen,0.19,mg/L,Creech Hollow,2011,Dec,winter
+surface water,2011-12-12,Conductivity,211,uS/cm,Creech Hollow,2011,Dec,winter
+surface water,2011-12-12,Conductivity,202,uS/cm,Creech Hollow,2011,Dec,winter
+surface water,2011-12-12,Nitrate/Nitrite as Nitrogen,0.18,mg/L,Creech Hollow,2011,Dec,winter
+surface water,2011-12-12,Nitrate/Nitrite as Nitrogen,0.12,mg/L,Creech Hollow,2011,Dec,winter
+surface water,2011-10-04,Nitrate/Nitrite as Nitrogen,0.05,mg/L,Creech Hollow,2011,Oct,fall
+surface water,2011-10-04,Nitrate/Nitrite as Nitrogen,0.093,mg/L,Creech Hollow,2011,Oct,fall
+surface water,2011-10-04,Conductivity,224,uS/cm,Creech Hollow,2011,Oct,fall
+surface water,2011-10-04,Conductivity,215,uS/cm,Creech Hollow,2011,Oct,fall
+surface water,2011-09-22,Conductivity,210,uS/cm,Creech Hollow,2011,Sep,fall
+surface water,2011-09-22,Conductivity,201,uS/cm,Creech Hollow,2011,Sep,fall
+surface water,2011-09-14,Conductivity,229,uS/cm,Creech Hollow,2011,Sep,fall
+surface water,2011-09-14,Conductivity,239,uS/cm,Creech Hollow,2011,Sep,fall
+surface water,2011-09-14,Nitrate/Nitrite as Nitrogen,0.055,mg/L,Creech Hollow,2011,Sep,fall
+surface water,2011-09-14,Nitrate/Nitrite as Nitrogen,0.1,mg/L,Creech Hollow,2011,Sep,fall
+surface water,2009-05-21,Conductivity,153,uS/cm,Creech Hollow,2009,May,spring
+surface water,2009-05-21,Conductivity,168,uS/cm,Creech Hollow,2009,May,spring
+surface water,2009-05-14,Conductivity,148,uS/cm,Creech Hollow,2009,May,spring
+surface water,2009-05-14,Conductivity,134,uS/cm,Creech Hollow,2009,May,spring
+surface water,2009-04-30,Conductivity,177,uS/cm,Creech Hollow,2009,Apr,spring
+surface water,2009-04-30,Conductivity,196,uS/cm,Creech Hollow,2009,Apr,spring
+surface water,2009-04-21,Conductivity,172,uS/cm,Creech Hollow,2009,Apr,spring
+surface water,2009-04-14,Conductivity,163,uS/cm,Creech Hollow,2009,Apr,spring
+surface water,2009-04-14,Conductivity,153,uS/cm,Creech Hollow,2009,Apr,spring
+surface water,2009-02-05,Conductivity,212,uS/cm,Creech Hollow,2009,Feb,winter
+surface water,2009-02-05,Conductivity,222,uS/cm,Creech Hollow,2009,Feb,winter
+surface water,2009-01-14,Conductivity,207,uS/cm,Creech Hollow,2009,Jan,winter
+surface water,2009-01-14,Conductivity,212,uS/cm,Creech Hollow,2009,Jan,winter
+surface water,2008-12-29,Conductivity,221,uS/cm,Creech Hollow,2008,Dec,winter
+surface water,2008-12-29,Conductivity,212,uS/cm,Creech Hollow,2008,Dec,winter
+surface water,2001-10-25,Conductivity,194.3,uS/cm,Creech Hollow,2001,Oct,fall
